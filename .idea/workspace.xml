@@ -1,38 +1,231 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a30189d3-98c9-4731-9cf2-01b4dae432a7" name="默认更改列表" comment="" />
+    <list default="true" id="a30189d3-98c9-4731-9cf2-01b4dae432a7" name="默认更改列表" comment="">
+      <change afterPath="C:/Javawork/first/first.iml" afterDir="false" />
+      <change afterPath="C:/Javawork/first/lib/mysql-connector-java-8.0.14.jar" afterDir="false" />
+      <change afterPath="C:/Javawork/j2ee/.idea/.gitignore" afterDir="false" />
+      <change afterPath="C:/Javawork/j2ee/.idea/artifacts/j2ee_war_exploded.xml" afterDir="false" />
+      <change afterPath="C:/Javawork/j2ee/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="C:/Javawork/j2ee/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="C:/Javawork/j2ee/.idea/libraries/javax_servlet.xml" afterDir="false" />
+      <change afterPath="C:/Javawork/j2ee/.idea/misc.xml" afterDir="false" />
+      <change afterPath="C:/Javawork/j2ee/.idea/modules.xml" afterDir="false" />
+      <change afterPath="C:/Javawork/j2ee/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="C:/Javawork/j2ee/j2ee.iml" afterDir="false" />
+      <change afterPath="C:/Software/Intellij/IntelliJ IDEA 2019.2.3/plugins/spy-js/server/node_modules/multi-stage-sourcemap/.idea/multi-stage-sourcemap.iml" afterDir="false" />
+      <change afterPath="C:/Software/Webstorm/WebStorm 2019.1.3/plugins/spy-js/server/node_modules/multi-stage-sourcemap/.idea/multi-stage-sourcemap.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PyCharm2019.1/system/workspace/search_book.4a8e8cd6.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/JavaPractice/JavaPractice.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/work/OCR断电器识别/Ocr/.idea/Ocr.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/杂件/hotelUpdate/hotel.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/HelloWorld/.idea/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JavaBase/JavaBase.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JavaPractice/.idea/JavaPractice.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/JavaPractice/JavaPractice.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/IdeaProjects/Knowledge/Knowledge.iml" afterDir="false" />
+      <change afterPath="C:/download/58city-master/.idea/58city-master.iml" afterDir="false" />
+      <change afterPath="C:/download/CaptchaRecognition-master/sipo/.idea/sipo.iml" afterDir="false" />
+      <change afterPath="C:/download/CaptchaRecognition-master/sipo2/.idea/sipo2.iml" afterDir="false" />
+      <change afterPath="C:/download/CaptchaRecognition-master/sipo3/.idea/sipo3.iml" afterDir="false" />
+      <change afterPath="C:/download/Code_Scaner-master/.idea/Code_Scaner-master.iml" afterDir="false" />
+      <change afterPath="C:/download/VerifyCode-master/.idea/VerifyCode-master.iml" afterDir="false" />
+      <change afterPath="C:/download/ZhengFang_CodeRecog-master/.idea/ZhengFang_CodeRecog-master.iml" afterDir="false" />
+      <change afterPath="C:/download/caipanwenshu-master/wenshu_task/.idea/clean_task.iml" afterDir="false" />
+      <change afterPath="C:/download/captcha_verify-master/v4/.idea/v4.iml" afterDir="false" />
+      <change afterPath="C:/download/dbworld-search-master/.idea/dbworld-search-master.iml" afterDir="false" />
+      <change afterPath="C:/download/dbworld-search-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="C:/download/dbworld-search-master/.idea/modules.xml" afterDir="false" />
+      <change afterPath="C:/download/dbworld-search-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="C:/download/java/05.会员版(2.0)-就业课(2.0)-常用API第二部分/12.【Object类、常用API】-笔记/code/01_API/01_API.iml" afterDir="false" />
+      <change afterPath="C:/download/java/06.会员版(2.0)-就业课(2.0)-集合/13.【Collection、泛型】-笔记/code/02_CollectionAndReflect/02_CollectionAndReflect.iml" afterDir="false" />
+      <change afterPath="C:/download/java/06.会员版(2.0)-就业课(2.0)-集合/14.【List、Set】-笔记/code/03_ListAndSet/03_ListAndSet(1).iml" afterDir="false" />
+      <change afterPath="C:/download/java/06.会员版(2.0)-就业课(2.0)-集合/15.【Map】-笔记/code/04_Map/04_Map.iml" afterDir="false" />
+      <change afterPath="C:/download/java/07.会员版(2.0)-就业课(2.0)-异常与多线程/16.【异常、线程】-笔记/code/05_ExceptionAndThread/05_ExceptionAndThread.iml" afterDir="false" />
+      <change afterPath="C:/download/java/07.会员版(2.0)-就业课(2.0)-异常与多线程/17.【线程、同步】-笔记/code/06_Thread/06_Thread.iml" afterDir="false" />
+      <change afterPath="C:/download/java/07.会员版(2.0)-就业课(2.0)-异常与多线程/18.【线程池、Lambda表达式】-笔记/code/07_ThreadAndLambda/07_ThreadAndLambda.iml" afterDir="false" />
+      <change afterPath="C:/download/java/08.会员版(2.0)-就业课(2.0)-File类与IO流/19.【File类、递归】-笔记/code/08_FileAndRecursion/08_FileAndRecursion.iml" afterDir="false" />
+      <change afterPath="C:/download/java/08.会员版(2.0)-就业课(2.0)-File类与IO流/20.【字节流、字符流】-笔记/code/09_IOAndProperties/09_IOAndProperties.iml" afterDir="false" />
+      <change afterPath="C:/download/java/08.会员版(2.0)-就业课(2.0)-File类与IO流/21.【缓冲流、转换流、序列化流、打印流】-笔记/code/10_IO/10_IO.iml" afterDir="false" />
+      <change afterPath="C:/download/java/09.会员版(2.0)-就业课(2.0)-网络编程/22.【网络编程】-笔记/code/11_Net/11_Net.iml" afterDir="false" />
+      <change afterPath="C:/download/java/10.会员版(2.0)-就业课(2.0)-JDK8新特性/23.【函数式接口】-笔记/code/12_FunctionalInterface/12_FunctionalInterface.iml" afterDir="false" />
+      <change afterPath="C:/download/java/10.会员版(2.0)-就业课(2.0)-JDK8新特性/24.【Stream流、方法引用】笔记/code/13_StreamAndMethodReference/13_StreamAndMethodReference.iml" afterDir="false" />
+      <change afterPath="C:/download/ocr/.idea/novel-spider-master.iml" afterDir="false" />
+      <change afterPath="C:/download/spider-master/house365_crawler/.idea/house365_crawler.iml" afterDir="false" />
+      <change afterPath="C:/download/spider-master/house365_crawler/.idea/misc.xml" afterDir="false" />
+      <change afterPath="C:/download/spider-master/house365_crawler/.idea/modules.xml" afterDir="false" />
+      <change afterPath="C:/download/spider-master/house365_crawler/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="C:/download/wx_code-master/.idea/wx_code-master.iml" afterDir="false" />
+      <change afterPath="C:/download/资料/kgcar/.idea/kgcar.iml" afterDir="false" />
+      <change afterPath="C:/download/资料/splider/.idea/splider.iml" afterDir="false" />
+      <change afterPath="C:/hljit_miss/.idea/hljit_miss.iml" afterDir="false" />
+      <change afterPath="C:/jswork/qmp.js/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="C:/jswork/qmp.js/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="C:/jswork/qmp.js/.idea/misc.xml" afterDir="false" />
+      <change afterPath="C:/jswork/qmp.js/.idea/modules.xml" afterDir="false" />
+      <change afterPath="C:/jswork/qmp.js/.idea/qmp.js.iml" afterDir="false" />
+      <change afterPath="C:/jswork/qmp.js/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="C:/jswork/qmp.js/decrypt.js" afterDir="false" />
+      <change afterPath="C:/jswork/qmp.js/test.js" afterDir="false" />
+      <change afterPath="C:/programme/nodejs/node_modules/npm/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="C:/programme/scrapyselenium/.idea/scrapyselenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/pythonwork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../365_house/.idea/365_house.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ArticleSpider/.idea/ArticleSpider.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CrackGeetest/.idea/CrackGeetest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CrackGeetest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CrackGeetest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CrackGeetest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yunnx/.idea/Yunnx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yunnx/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yunnx/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yunnx/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Yunnx/static/image/analysis.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloDjango/.idea/HelloDjango.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Knowledge/.idea/Knowledge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Login/.idea/ZhengFang_CodeRecog-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ocr/.idea/Ocr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Practice/.idea/Practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProxyPool/.idea/ProxyPool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Tencent/.idea/Tencent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WebOcr/.idea/WebOcr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WebOcr/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WebOcr/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WebOcr/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WeiXin/.idea/WeiXin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Weixin-master/Weixin-master/weixin/.idea/weixin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Yunnx/.idea/Yunnx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../asyncio/.idea/asyncio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../asyncio_process/.idea/asyncio_process.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../blog/.idea/blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../book_search/.idea/book_search.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../challenges/.idea/challenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../douban/.idea/douban.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../google_trans/.idea/google_trans.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../google_trans/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../google_trans/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../google_trans/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../images360/.idea/images360.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js_cookie/.idea/js_cookie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js_cookie/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js_cookie/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js_cookie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../maoyan/.idea/maoyan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pengpei_ajax/.idea/pengpei_ajax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../qmp_decrypt/.idea/qmp_decrypt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapydownloadertest/.idea/scrapydownloadertest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scrapyuniversal/.idea/scrapyuniversal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../search_book/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../search_book/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../search_book/.idea/search_book.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../search_book/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sinaNews/.idea/sinaNews.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sina_news/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sina_news/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sina_news/.idea/sina_news.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../sina_news/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../stock_company/.idea/stock_company.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../taobao/.idea/taobao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../tutorial/.idea/tutorial.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wenshu/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wenshu/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wenshu/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wenshu/.idea/wenshu.iml" afterDir="false" />
+      <change afterPath="C:/新建文件夹/hotelUpdate/hotel.iml" afterDir="false" />
+      <change beforePath="C:/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typeidea/settings/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/typeidea/settings/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typeidea/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/typeidea/wsgi.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/typeidea/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
+            <state relative-caret-position="-348">
               <caret line="100" column="1" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/typeidea/settings/base.py">
+        <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1710">
-              <caret line="121" selection-start-line="121" selection-end-line="121" />
+            <state relative-caret-position="132">
+              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <folding>
+                <element signature="e#84#93#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/typeidea/settings/develop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/typeidea/settings/develop.py">
+        <entry file="file://$PROJECT_DIR$/blog/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="158">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1034">
+              <caret line="47" column="82" selection-start-line="47" selection-start-column="82" selection-end-line="47" selection-end-column="82" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/comment/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="85" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,18 +240,24 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="C:/" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/typeidea/settings.py" />
-        <option value="$PROJECT_DIR$/typeidea/settings/base.py" />
         <option value="$PROJECT_DIR$/typeidea/settings/develop.py" />
+        <option value="$PROJECT_DIR$/typeidea/settings/base.py" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/typeidea/wsgi.py" />
+        <option value="$PROJECT_DIR$/typeidea/urls.py" />
+        <option value="$PROJECT_DIR$/config/models.py" />
+        <option value="$PROJECT_DIR$/comment/models.py" />
+        <option value="$PROJECT_DIR$/blog/models.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="737" />
     <option name="y" value="160" />
     <option name="width" value="766" />
@@ -82,13 +281,12 @@
             <path>
               <item name="typeidea" type="b2602c69:ProjectViewProjectNode" />
               <item name="typeidea" type="462c0819:PsiDirectoryNode" />
-              <item name="typeidea" type="462c0819:PsiDirectoryNode" />
+              <item name="comment" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="typeidea" type="b2602c69:ProjectViewProjectNode" />
               <item name="typeidea" type="462c0819:PsiDirectoryNode" />
               <item name="typeidea" type="462c0819:PsiDirectoryNode" />
-              <item name="settings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -98,9 +296,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -149,25 +355,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572759698975</updated>
-      <workItem from="1572759701955" duration="539000" />
+      <workItem from="1572759701955" duration="10250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="539000" />
+    <option name="totallyTimeSpent" value="10250000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="750" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="750" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3181818" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -187,31 +393,87 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#84#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typeidea/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#224#233#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/typeidea/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/typeidea/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="100" column="1" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/typeidea/settings/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1710">
-          <caret line="121" selection-start-line="121" selection-end-line="121" />
+        <state relative-caret-position="220">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="e#632#664#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/typeidea/settings/develop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typeidea/settings/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typeidea/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-348">
+          <caret line="100" column="1" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comment/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="85" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" column="82" selection-start-line="47" selection-start-column="82" selection-end-line="47" selection-end-column="82" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typeidea/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
