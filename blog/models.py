@@ -3,6 +3,10 @@ from django.db import models
 
 # Create your models here.
 class Category(models.Model):
+
+    def __str__(self):
+        return self.name
+
     STATUS_NORMAL = 1
     STATUS_DELETE = 0
     STATUS_ITEMS = (
@@ -21,6 +25,10 @@ class Category(models.Model):
 
 
 class Tag(models.Model):
+
+    def __str__(self):
+        return self.name
+
     STATUS_NORMAL = 1
     STATUS_DELETE = 0
     STATUS_ITEMS = (
@@ -61,4 +69,5 @@ class Post(models.Model):
     class Meta:
         verbose_name = verbose_name_plural = "文章"
         ordering = ['id']   # 根据id进行降序排列
+
 
